@@ -1,4 +1,4 @@
-# Geometric Shapes Project
+# Console Shape Application Project
  
 This C++ project is designed to handle geometric shapes, including Rectangle, Triangle, and Circle. The project follows a modular structure with separate header (.h) and implementation (.cpp) files for each class.
  
@@ -38,7 +38,7 @@ Implementation: src/Circle.cpp
  
 ```bash
 
-git clone # Geometric Shapes Project
+git clone # Console Shape Application Project
  
 This C++ project is designed to handle geometric shapes, including Rectangle, Triangle, and Circle. The project follows a modular structure with separate header (.h) and implementation (.cpp) files for each class.
  
@@ -75,8 +75,6 @@ Implementation: src/Circle.cpp
 ## Building and Running
  
 1. Clone or download the repository to your local machine.
- 
-```bash
 
 git clone https://github.com/ombothe08/Console_Application.git
 
