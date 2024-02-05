@@ -78,10 +78,4 @@ Implementation: src/Circle.cpp
 
 git clone https://github.com/ombothe08/Console_Application.git
 
-##  Input :
-1. We provide the text file path to the gnu application.
-2. Text file is created automatically as we have done changes in .vscode/tasks.json as set the text file creation.
 
-##  Output :
-1. For the output we copy the text file path from folder which contain coordinates.
-2. we run that text file using command plot "file path" w lp
